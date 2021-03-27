@@ -1,4 +1,4 @@
-name="devault"
-symbol="dvt"
-daemon="devaultd"
-cli="devault-cli"
+name="trinity"
+symbol="tty"
+daemon="trinityd"
+cli="trinityd"
